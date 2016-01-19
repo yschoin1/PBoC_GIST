@@ -1,9 +1,8 @@
 *.mov
 *.tiff
-*.html
-*.ipynb
 *.pdf
 bebi103.py
 *pycache*
 free_diffusion
 results
+.ipynb*
